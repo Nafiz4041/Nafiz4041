@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/md-mohaiminul-islam-nafiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mohaiminul-islam-nafiz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohaiminul-nafiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohaiminul-nafiz" height="30" width="40" /></a>
 <a href="https://fb.com/mohaiminulislam.nafiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohaiminulislam.nafiz" height="30" width="40" /></a>
 <a href="https://instagram.com/mohaiminulislamnafiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohaiminulislamnafiz" height="30" width="40" /></a>
 <a href="https://www.behance.net/mohaiminafiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mohaiminafiz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uctpl7wy3mrhmm5anun9utsw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uctpl7wy3mrhmm5anun9utsw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@everythingwithnafiz6212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@everythingwithnafiz6212" height="30" width="40" /></a>
 <a href="https://discord.gg/Wj3keGKWus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Wj3keGKWus" height="30" width="40" /></a>
 </p>
 
