@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD Mohaiminul Islam Nafiz</h1>
-<h3 align="center">I am an enthusiastic learner, passionate about Flutter development and Dart programming, constantly seeking to expand my skills in mobile app development from Bangladdesh.</h3>
+<h3 align="center">I am an enthusiastic learner, passionate about Flutter development and Dart programming, constantly seeking to expand my skills in mobile app development from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafiz4041&label=Profile%20views&color=0e75b6&style=flat" alt="nafiz4041" /> </p>
 
