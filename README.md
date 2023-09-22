@@ -29,8 +29,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mdnafiz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nafiz" /></a><a href="https://ko-fi.com/nafiz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="nafiz" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiz4041&show_icons=true&locale=en&layout=compact" alt="nafiz4041" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiz4041&show_icons=true&locale=en&layout=compact" alt="nafiz4041" /></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiz4041&show_icons=true&locale=en" alt="nafiz4041" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiz4041&show_icons=true&locale=en" alt="nafiz4041" /></p><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nafiz4041&" alt="nafiz4041" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nafiz4041&" alt="nafiz4041" /></p><br><br>
